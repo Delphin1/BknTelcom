@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mnu_properties">Properties</string>
+    <string name="mnu_exit">Exit</string>
+    <string name="path_xml">PeopleXML.xml</string>
+
+</resources>

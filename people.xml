@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+   <DATE>11.07.2014</DATE>
+   <USER_NAME>nobody</USER_NAME>
+   <APP_ID>101</APP_ID>
+   <APP_NAME>Telсom</APP_NAME>
+   <PAGE_ID>75</PAGE_ID>
+   <TITLE>PeopleXMLReport</TITLE>
+   <REGION ID="7387106651887913">
+      <ROWSET>
+         <ROW>
+            <TABN>1</TABN>
+            <FIO>Иванов Иван Иванович</FIO>
+            <EMAIL>ivan@ivan.com</EMAIL>
+            <ABBR>абр1</ABBR>
+            <JOB>Операторная УПН Русиновка</JOB>
+            <VN>11234</VN>
+            <GN>111111</GN>
+            <ROOM>База Вятка - Русиновское НМ</ROOM>
+         </ROW>
+         <ROW>
+            <TABN>22</TABN>
+            <FIO>Петров Петр Петрович</FIO>
+            <EMAIL>piterthegreate@mail.ru</EMAIL>
+            <ABBR>абр1</ABBR>
+            <JOB>Хмелевка (Пермский номер)</JOB>
+            <VN>55</VN>
+            <GN>(34291) 44444</GN>
+            <ROOM>ЦДПН-3 Камбарка</ROOM>
+         </ROW>
+         <ROW>
+            <TABN>444</TABN>
+            <FIO>Сидоров Сидор Сидоров</FIO>
+            <EMAIL>test@test.com</EMAIL>
+            <ABBR>абр5</ABBR>
+            <JOB>скв. 1820</JOB>
+            <VN>44</VN>
+            <GN>899999999999</GN>
+            <ROOM>База Вятка Орешниковское НМ</ROOM>
+         </ROW>
+      </ROWSET>
+   </REGION>
+</DOCUMENT>
